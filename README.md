@@ -11,6 +11,6 @@ Future Enhancements 🚀
 🌟Implementing user authentication for a personalized experience.
 
 Feedback and Support 🙌
-Would love your feedback! Open an issue or reach out on linkedin (https://www.linkedin.com/in/suchit20/)
+Would love your feedback! Open an issue or reach out on linkedin (https://www.linkedin.com/in/suchit-asthana/)
 
 Happy coding! 👩‍💻🚀
